@@ -110,6 +110,17 @@ Fidelity and Schroder rankings are stable across all four weighting schemes. The
 | Radar Chart | Average normalised score per pillar |
 | Sensitivity Heatmap | Yuan scores and ranks across four weighting schemes |
 
+## Interactive Charts
+
+- [Cumulative Returns](https://qaweem-ahmad.github.io/Fund-Analysis-Engine/charts/chart1_cumulative_returns.html)
+- [Drawdown Chart](https://qaweem-ahmad.github.io/Fund-Analysis-Engine/charts/chart2_drawdown.html)
+- [Rolling Sharpe Ratio](https://qaweem-ahmad.github.io/Fund-Analysis-Engine/charts/chart3_rolling_sharpe.html)
+- [TOPSIS Heatmap](https://qaweem-ahmad.github.io/Fund-Analysis-Engine/charts/chart4_topsis_heatmap.html)
+- [Radar Chart](https://qaweem-ahmad.github.io/Fund-Analysis-Engine/charts/chart6_radar.html)
+- [Sensitivity Heatmap](https://qaweem-ahmad.github.io/Fund-Analysis-Engine/charts/chart_sensitivity_heatmap.html)
+- [Yuan C-Matrix Heatmap](https://qaweem-ahmad.github.io/Fund-Analysis-Engine/charts/yuan_cmatrix_heatmap.html)
+
+
 ---
 
 ## Project Structure
